@@ -2,4 +2,4 @@
 __pycache__/
 venv/
 
-datasets/*.csv.gz
+datasets/quotes.csv.gz
