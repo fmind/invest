@@ -1,7 +1,7 @@
 findspark
 ipython
+ipywidgets
 jupyterlab
 pandas
-plotly_express
 requests
 tqdm
