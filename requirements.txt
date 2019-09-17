@@ -5,3 +5,4 @@ jupyterlab
 pandas
 requests
 tqdm
+xlrd
